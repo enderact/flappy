@@ -1,7 +1,5 @@
 Flappy Bird
 
-Created by - Devesh Atul Mahajan (23BCE0801)
-
 Tools used :
 Visual Studio 2022
 SFML (C++)
@@ -19,3 +17,6 @@ Bird dies after passing the first tunnel(HARD MODE) (Related to the Phirana Plan
 
 Bird can lag at start as I have not added any lag timer but it will become smooth in some time
 This lag can be noticed by less jump height of the bird;
+
+
+Edit - Change the Visual studio settings for SFML, I have used my own paths for the libraries
